@@ -6,7 +6,7 @@
 
 * This script uses the [GitHub REST API](https://docs.github.com/en/rest) to collect data about Solidity repositories, files and commits.
 * When the script is run, it creates a local database with information about Solidity files, their repositories, and their commit history.
-* It uses the [GitHub Search API repositories endpoint](https://api.github.com/search/repositories)
+* It uses the GitHub Search API repositories endpoint (https://api.github.com/search/repositories)
 * In order to expand the results it uses a technique called *stratified search*
 * Request throttling is used to make optimal use of the limited API
 * The search results can be filtered according to various criteria
