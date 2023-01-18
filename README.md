@@ -99,4 +99,4 @@ The showcase database can again be viewed using your favorite SQLite interface.
 
 ## License
 
-The MIT License (MIT). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+The MIT License (MIT). Please have a look at the [LICENSE](LICENSE) for more details.
