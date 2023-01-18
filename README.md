@@ -53,7 +53,7 @@ To customize the script manually you can use arguments and control the behavior.
 - `--min-size` : The minimum code size that is searched for (default: 1)
 - `--max-size` : The maximum code size that is searched for (default: 393216)
 - `--no-throttle` : Disable the request throttling
-- `--license-filter` : When enabled the script filters the search only for repositories that fall under one of githubs [licenses](api.github.com/licenses)
+- `--license-filter` : When enabled the script filters the search only for repositories that fall under one of githubs [licenses](https://api.github.com/licenses)
 - `--search-forks` : When enabled the search includes forks of repositories.
 - `--github-token` : With this argument you should specify a personal access token for GitHub (by default, the environment variable GITHUB_TOKEN is used)
 
